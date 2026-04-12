@@ -1,7 +1,7 @@
 # Hi, I'm Ran Matan
 
 ## About Me
-🎓 Computer Science graduate specializing in **Data Science**
+🎓 Computer Science graduate specializing in **Data Science**  
 💼 Aspiring **Data Analyst / Data Scientist**
 
 ---
