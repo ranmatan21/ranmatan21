@@ -30,4 +30,4 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-"Ran Matan"-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ran-matan-251816305/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ranmatanblue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ran-matan-251816305/)
