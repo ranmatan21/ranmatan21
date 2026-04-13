@@ -5,13 +5,13 @@
 💼 Aspiring **Data Analyst / Data Scientist**
 
 ---
-### 📊 [Twitter User Behavior Analysis]
+### 📊 Twitter User Behavior Analysis
 **Final Academic Project**
 * Scraped and analyzed large-scale Twitter data to identify user behavior patterns.
 * Implemented **Topic Modeling** and **K-Means Clustering** to segment users.
 * **Tech Stack:** Python, Scikit-learn, NLTK, Pandas.
 
-### ⚽ [Soccer Data Insights]
+### ⚽ Soccer Data Insights
 * An analysis of historical soccer data, exploring team performance and player stats.
 * Created interactive visualizations to show trends over seasons.
 * **Tech Stack:** SQL (BigQuery/PostgreSQL), Python (Matplotlib, Seaborn).
