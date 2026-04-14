@@ -11,7 +11,7 @@
 * Implemented **Topic Modeling** and **K-Means Clustering** to segment users.
 * **Tech Stack:** Python, Scikit-learn, NLTK, Pandas.
 
-### ⚽ Football Data Insights
+### ⚽ Football Data Analysis
 * An analysis of historical soccer data, exploring team performance and player stats.
 * Created interactive visualizations to show trends over seasons.
 * **Tech Stack:** SQL (BigQuery/PostgreSQL), Python (Matplotlib, Seaborn).
