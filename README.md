@@ -2,7 +2,7 @@
 
 ## About Me
 🎓 Computer Science graduate specializing in **Data Science**  
-💼 Aspiring **Data Analyst / Data Scientist**
+💼 Aspiring **Data Analyst / Data Scientist / AI Engineer**
 
 ---
 ### 📊 Twitter User Behavior Analysis
